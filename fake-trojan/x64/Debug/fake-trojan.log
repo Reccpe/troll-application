@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\demir\source\repos\fake-trojan\fake-trojan\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  fake-trojan.vcxproj -> C:\Users\demir\source\repos\fake-trojan\x64\Debug\fake-trojan.exe
